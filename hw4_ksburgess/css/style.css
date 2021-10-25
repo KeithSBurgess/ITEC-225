@@ -1,0 +1,21 @@
+html {
+    background-image: radial-gradient(green,white);
+}
+
+hr {
+    margin: 15px;
+}
+
+section {
+    margin: 10px;
+    white-space: nowrap;
+}
+
+p {
+    display: inline;
+    font-size: large;
+}
+
+
+
+
